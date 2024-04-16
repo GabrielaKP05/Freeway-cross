@@ -6,7 +6,7 @@ Este é um projeto desenvolvido como parte de um desafio técnico. Consiste em u
 
 ## Como Jogar
 1. Abra o arquivo `index.html` em um navegador web compatível.
-2. Use as teclas de seta (cima, baixo, esquerda, direita) para mover o personagem pela tela.
+2. Use as teclas de seta (cima, baixo) para mover o personagem pela tela.
 3. Evite ser atingido pelos carros em movimento.
 4. Tente chegar ao outro lado da rodovia o maior número de vezes possível para marcar pontos.
 
